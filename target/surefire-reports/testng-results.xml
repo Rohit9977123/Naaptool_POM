@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-31T12:46:44 IST" name="Surefire suite" finished-at="2024-08-31T12:48:04 IST" duration-ms="79641">
+    <groups>
+    </groups>
+    <test started-at="2024-08-31T12:46:44 IST" name="Surefire test" finished-at="2024-08-31T12:48:04 IST" duration-ms="79641">
+      <class name="Test.Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.Test@2473d930]" started-at="2024-08-31T12:46:44 IST" name="setup" finished-at="2024-08-31T12:46:50 IST" duration-ms="5735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="reporting()[pri:0, instance:Test.Test@2473d930]" started-at="2024-08-31T12:46:50 IST" name="reporting" finished-at="2024-08-31T12:46:51 IST" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reporting -->
+        <test-method signature="Homepage()[pri:0, instance:Test.Test@2473d930]" started-at="2024-08-31T12:46:51 IST" name="Homepage" finished-at="2024-08-31T12:46:51 IST" duration-ms="879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Homepage -->
+        <test-method signature="KidToys()[pri:1, instance:Test.Test@2473d930]" started-at="2024-08-31T12:46:51 IST" name="KidToys" finished-at="2024-08-31T12:46:53 IST" duration-ms="1706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KidToys -->
+        <test-method signature="OutDoorPlay()[pri:2, instance:Test.Test@2473d930]" started-at="2024-08-31T12:46:53 IST" name="OutDoorPlay" finished-at="2024-08-31T12:47:02 IST" duration-ms="9162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OutDoorPlay -->
+        <test-method signature="GamesPuzzles()[pri:3, instance:Test.Test@2473d930]" started-at="2024-08-31T12:47:02 IST" name="GamesPuzzles" finished-at="2024-08-31T12:47:21 IST" duration-ms="18912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GamesPuzzles -->
+        <test-method signature="BabyCare()[pri:4, instance:Test.Test@2473d930]" started-at="2024-08-31T12:47:21 IST" name="BabyCare" finished-at="2024-08-31T12:48:03 IST" duration-ms="42000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BabyCare -->
+        <test-method is-config="true" signature="end()[pri:0, instance:Test.Test@2473d930]" started-at="2024-08-31T12:48:03 IST" name="end" finished-at="2024-08-31T12:48:04 IST" duration-ms="551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Test.Test@2473d930]" started-at="2024-08-31T12:48:04 IST" name="teardown" finished-at="2024-08-31T12:48:04 IST" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Test.Test -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
